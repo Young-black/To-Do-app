@@ -83,3 +83,6 @@ A simple to-do list app built with HTML, CSS, and JavaScript (ES6+).
 ## How to Run
 1. Clone the repository.
 2. Open `index.html` in your browser.
+
+## Deployment Url
+https://to-do-app-mu-dun.vercel.app/
