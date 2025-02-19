@@ -68,3 +68,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# Task Manager App
+
+A simple to-do list app built with HTML, CSS, and JavaScript (ES6+).
+
+## Features
+- Add tasks
+- Mark tasks as complete
+- Delete tasks
+- Persist data using `localStorage`
+
+## How to Run
+1. Clone the repository.
+2. Open `index.html` in your browser.
